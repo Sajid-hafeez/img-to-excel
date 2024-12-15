@@ -1,3 +1,3 @@
-streamlit==1.25.0
-Pillow==9.4.0
-openpyxl==3.1.2
+streamlit
+Pillow
+openpyxl
